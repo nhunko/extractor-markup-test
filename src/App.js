@@ -11,6 +11,7 @@ function App() {
         <div>
           hello
         </div>
+        <button id='main-button'>MAIN</button>
       </main>
       <footer>
       <div><div></div></div>
